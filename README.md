@@ -1,10 +1,10 @@
 # Labs-NSU
 
-Labs, which I did during my learning at NSU on the 1st course.
+Labs, which I did during my learning at NSU on the 1st course.  
 
-1st semester
-Labs 0, ... , 4 - without headers. 
-
+1st semester  
+Labs 0, ... , 4 - without headers.  
+  
 lab0: Convert numbers from one numeral system to another.
 lab1-0: Find substring in a string Boyler Moore's method.
 lab1-1: Find substring in a string Rabim Karp's method.
